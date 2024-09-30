@@ -1,0 +1,2 @@
+# api-nodejs
+ Desenvolvi uma API RESTful utilizando Node.js como servidor para gerenciar usuários. A API permite realizar operações como criação, consulta e exclusão de usuários, incluindo informações como nome, idade e email. Essa aplicação foi integrada com um front-end desenvolvido em React, onde os usuários podem interagir com o sistema de maneira intuitiva. A API também segue boas práticas de segurança e organização de rotas, além de garantir comunicação eficiente com o banco de dados para armazenar e manipular os dados dos usuários.
